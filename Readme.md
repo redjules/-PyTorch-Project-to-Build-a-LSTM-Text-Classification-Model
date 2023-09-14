@@ -9,8 +9,6 @@ In this project, an LSTM model for classifying the review of an app on a scale o
 
 # Goal
 
-To understand the  working of LSTM 
-
 To classify the review of an app on a scale of 1 to 5 using LSTM
 
 
